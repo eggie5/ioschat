@@ -1,0 +1,5 @@
+#import <Foundation/Foundation.h>
+@interface PodsDummy_Pods_curbcall_questions_JSQMessagesViewController : NSObject
+@end
+@implementation PodsDummy_Pods_curbcall_questions_JSQMessagesViewController
+@end
